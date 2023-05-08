@@ -34,5 +34,3 @@ Project Organization
 
 
 --------
-
-<p><small>Data Source<a target="_blank" href="https://www.kaggle.com/datasets/taranvee/smart-home-dataset-with-weather-information"></a></small></p>
