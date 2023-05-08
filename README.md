@@ -1,57 +1,38 @@
-default_template_project
+Exploratory Analysis on Smart Home System 
 ==============================
 
-This is a simple data science template project folder.
+This is an in-depth data analysis on a Smart Home Dataset with weather Information. The acquired data file, 
+stored in a CSV format, contains the readings with a time span of 1 minute of house appliances in kW from a 
+smart meter and weather conditions of that particular region.
 
 Project Organization
 ------------
 
     ├── LICENSE
+    │
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
+    │
     ├── README.md          <- The top-level README for developers using this project.
-    ├── data
-    │   ├── external       <- Data from third party sources.
-    │   ├── interim        <- Intermediate data that has been transformed.
-    │   ├── processed      <- The final, canonical data sets for modeling.
-    │   └── raw            <- The original, immutable data dump.
     │
-    ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
+    ├── data set           <- Contains the primary data set suppressed inside a zip file.
     │
-    ├── models             <- Trained and serialized models, model predictions, or model summaries
+    ├── docs               <- Folder contains documentation about the features of the data set.
     │
-    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-    │                         the creator's initials, and a short `-` delimited description, e.g.
-    │                         `1.0-jqp-initial-data-exploration`.
     │
-    ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
+    ├── analysis           <- Jupyter notebooks, where the primary analysis is carried out.
     │
-    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-    │   └── figures        <- Generated graphics and figures to be used in reporting
+    ├── references         <- Data source links and references based on the observations.
     │
-    ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-    │                         generated with `pip freeze > requirements.txt`
+    ├── figures            <- All the generated graphs utilized for this study.
+    │
+    ├── requirements.txt   <- The requirements file for reproducing the analysis environment
     │
     ├── setup.py           <- makes project pip installable (pip install -e .) so src can be imported
-    ├── src                <- Source code for use in this project.
-    │   ├── __init__.py    <- Makes src a Python module
-    │   │
-    │   ├── data           <- Scripts to download or generate data
-    │   │   └── make_dataset.py
-    │   │
-    │   ├── features       <- Scripts to turn raw data into features for modeling
-    │   │   └── build_features.py
-    │   │
-    │   ├── models         <- Scripts to train models and then use trained models to make
-    │   │   │                 predictions
-    │   │   ├── predict_model.py
-    │   │   └── train_model.py
-    │   │
-    │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
-    │       └── visualize.py
+    │
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
 
 --------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+<p><small>Data Source<a target="_blank" href="https://www.kaggle.com/datasets/taranvee/smart-home-dataset-with-weather-information"></small></p>
