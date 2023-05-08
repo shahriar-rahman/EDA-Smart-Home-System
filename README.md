@@ -1,5 +1,4 @@
 # Exploratory Data Analysis on Smart Home System 
-==============================
 
 This is an in-depth data analysis on a Smart Home Dataset with weather Information. The acquired data file, 
 stored in a CSV format, contains the readings with a time span of 1 minute of house appliances in kW from a 
