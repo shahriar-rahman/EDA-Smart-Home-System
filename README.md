@@ -6,7 +6,9 @@ smart meter and weather conditions of that particular region.
 
 </br></br>
 
-![alt text](https://github.com/shahriar-rahman/EDA-Smart-Home-System/blob/main/figures/solar1.jpg)
+<div align="center">
+    <img width="100%" src="figures/solar1.jpg" alt="Solar.gif" >
+</div>
 
 </br></br>
 
