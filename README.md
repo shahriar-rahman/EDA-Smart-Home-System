@@ -1,8 +1,14 @@
 # Exploratory Data Analysis on Smart Home System 
-
+===========================================================================
 This is an in-depth introspection on the data from a Smart Home System Dataset with weather Information. The acquired data file, 
 stored in a CSV format, contains the readings with a time span of 1 minute of house appliances in kW from a 
 smart meter and weather conditions of that particular region.
+
+</br></br>
+
+![alt text](https://github.com/shahriar-rahman/EDA-Smart-Home-System/blob/main/figures/solar1.jpg)
+
+</br></br>
 
 ### ◘ Methodologies & Technologies applied
 * Check and Clean data
@@ -13,11 +19,15 @@ smart meter and weather conditions of that particular region.
 * Feature correlations
 * Seaborn & Matplotplib visualizations
 
-### ◘  Required Modules
+</br></br>
+
+### ◘  Required Packages
 * pandas 2.0.3
 * missingNo 0.5.2
 * matplotlib 3.7.0
 * seaborn 0.12.2
+
+</br></br>
 
 ### ◘ Jupyter core packages
 * IPython          : 8.10.0
@@ -28,6 +38,9 @@ smart meter and weather conditions of that particular region.
 * jupyter_server   : 1.23.4
 * jupyterlab       : 3.5.3
 
+</br></br>
+
+![alt text](https://github.com/shahriar-rahman/EDA-Smart-Home-System/blob/main/figures/solar2.jpg)
 
 ## Project Organization
 ------------
