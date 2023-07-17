@@ -33,7 +33,7 @@ smart meter and weather conditions of that particular region.
 * matplotlib 3.7.0
 * seaborn 0.12.2
 
-</br></br>
+</br>
 
 ### ◘ Jupyter core packages
 * IPython          : 8.10.0
