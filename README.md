@@ -21,6 +21,10 @@ smart meter and weather conditions of that particular region.
 
 </br></br>
 
+![alt text](https://github.com/shahriar-rahman/EDA-Smart-Home-System/blob/main/figures/solar2.jpg)
+
+</br></br>
+
 ### ◘  Required Packages
 * pandas 2.0.3
 * missingNo 0.5.2
@@ -40,7 +44,6 @@ smart meter and weather conditions of that particular region.
 
 </br></br>
 
-![alt text](https://github.com/shahriar-rahman/EDA-Smart-Home-System/blob/main/figures/solar2.jpg)
 
 ## Project Organization
 ------------
